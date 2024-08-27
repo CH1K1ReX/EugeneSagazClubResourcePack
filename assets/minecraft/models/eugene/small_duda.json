@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "eugene/eugene_skin",
-		"particle": "eugene/eugene_skin"
+		"0": "eugene/duda_skin",
+		"particle": "eugene/duda_skin"
 	},
 	"elements": [
 		{
