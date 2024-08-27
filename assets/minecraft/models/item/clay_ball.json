@@ -7,6 +7,7 @@
 	"overrides": 
 	[
 		{"predicate": { "custom_model_data":4990001}, "model": "eugene/small_eugene"},
-		{"predicate": { "custom_model_data":4990002}, "model": "eugene/small_duda"}
+		{"predicate": { "custom_model_data":4990002}, "model": "eugene/small_duda"},
+		{"predicate": { "custom_model_data":4990003}, "model": "eugene/small_arkadii"}
 	]
 }
