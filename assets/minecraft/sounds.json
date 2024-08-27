@@ -1,3 +1,117 @@
 {
-  "eugene.leskabitch": {"sounds":["custom/leskabitch"]}
+  "eugene.music.power_drish_out": {
+    "sounds": [
+      "custom/eugene_music/power_drish_out"
+    ]
+  },
+  "eugene.music.an_old_man_ballad": {
+    "sounds": [
+      "custom/eugene_music/an_old_man_ballad"
+    ]
+  },
+  "eugene.music.dedka_scotch": {
+    "sounds": [
+      "custom/eugene_music/dedka_scotch"
+    ]
+  },
+  "eugene.music.leska_bich": {
+    "sounds": [
+      "custom/eugene_music/leska_bich"
+    ]
+  },
+  "eugene.music.litle_mech": {
+    "sounds": [
+      "custom/eugene_music/litle_mech"
+    ]
+  },
+  "eugene.music.mxa_doxrena": {
+    "sounds": [
+      "custom/eugene_music/mxa_doxrena"
+    ]
+  },
+  "eugene.music.na_kortiushax": {
+    "sounds": [
+      "custom/eugene_music/na_kortiushax"
+    ]
+  },
+  "eugene.music.odinokiy_homyak": {
+    "sounds": [
+      "custom/eugene_music/odinokiy_homyak"
+    ]
+  },
+  "eugene.music.oh_my_god": {
+    "sounds": [
+      "custom/eugene_music/oh_my_god"
+    ]
+  },
+  "eugene.music.pridetsya_havat": {
+    "sounds": [
+      "custom/eugene_music/pridetsya_havat"
+	]
+  },
+  "eugene.music.balada_beloj_akuly": {
+    "sounds": [
+      "custom/eugene_music/balada_beloj_akuly"
+    ]
+  },
+    "eugene.music.gvozdoder": {
+    "sounds": [
+      "custom/eugene_music/gvozdoder"
+    ]
+  },
+    "eugene.music.kartoshechka_rastet": {
+    "sounds": [
+      "custom/eugene_music/kartoshechka_rastet"
+    ]
+  },
+    "eugene.music.lestnitca_hctoli": {
+    "sounds": [
+      "custom/eugene_music/lestnitca_hctoli"
+    ]
+  },
+    "eugene.music.mnogo_hodok": {
+    "sounds": [
+      "custom/eugene_music/mnogo_hodok"
+    ]
+  },
+    "eugene.music.mramornnyj_bob": {
+    "sounds": [
+      "custom/eugene_music/mramornnyj_bob"
+    ]
+  },
+    "eugene.music.ot_u_do": {
+    "sounds": [
+      "custom/eugene_music/ot_u_do"
+    ]
+  },
+    "eugene.music.seamoth_esli_shto": {
+    "sounds": [
+      "custom/eugene_music/seamoth_esli_shto"
+    ]
+  },
+    "eugene.music.svezhaya_shkurka": {
+    "sounds": [
+      "custom/eugene_music/svezhaya_shkurka"
+    ]
+  },
+    "eugene.music.yashichek_tut": {
+    "sounds": [
+      "custom/eugene_music/yashichek_tut"
+    ]
+  },
+  "community.music.kartoshka_rap_1": {
+    "sounds": [
+      "custom/community_music/kartoshka_rap_1"
+    ]
+  },
+  "community.music.kartoshka_rap_2": {
+    "sounds": [
+      "custom/community_music/kartoshka_rap_2"
+    ]
+  },
+  "eugene.sound.zelda": {
+    "sounds": [
+      "custom/sounds/zelda"
+    ]
+  }
 }

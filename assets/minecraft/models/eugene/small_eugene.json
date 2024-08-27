@@ -1,0 +1,6 @@
+{
+	"parent": "eugene/templates/model-1_min",
+	"textures": {
+		"skin": "eugene/Eugene"
+	}
+}
