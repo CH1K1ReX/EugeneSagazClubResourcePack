@@ -1,6 +1,7 @@
 # EugeneSagazClub Resource Pack
 
 Resource pack for minecraft and EugeneSagaz Community
+
 by duda.kn
 
 Короче, это ресурс пак для Предстоящего ивента.
