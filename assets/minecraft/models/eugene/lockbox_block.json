@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_top",
+  "textures": {
+    "side": "minecraft:eugene/lockbox_side",
+    "top": "minecraft:eugene/lockbox_top"
+  }
+}

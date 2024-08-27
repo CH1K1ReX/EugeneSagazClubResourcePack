@@ -1,0 +1,9 @@
+{
+    "sources":[
+        {
+            "type":"directory",
+            "source":"eugene",
+            "prefix":"eugene/"
+        }
+    ]
+}
