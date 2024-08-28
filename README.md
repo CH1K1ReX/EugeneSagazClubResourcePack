@@ -1,6 +1,7 @@
 # EugeneSagazClub Resource Pack
 Resource pack for minecraft and EugeneSagaz Community
-у нас есть свой собственный дискорд сервер ->> [ТЫК](https://discord.gg/CWUFgqgh) <<-
+
+У нас есть свой собственный [дискорд сервер](https://discord.gg/CWUFgqgh).
 
 Короче, это ресурс пак для предстоящего и предстоящих ивентов.
 
