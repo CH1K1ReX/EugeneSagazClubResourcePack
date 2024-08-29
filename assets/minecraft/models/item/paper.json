@@ -20,6 +20,7 @@
 		{"predicate": { "custom_model_data": 4990012 }, "model": "eugene/painting/sugar_sunset"},
 		{"predicate": { "custom_model_data": 4990013 }, "model": "eugene/painting/the_gun"},
 		{"predicate": { "custom_model_data": 4990014 }, "model": "eugene/painting/tomate"},
-		{"predicate": { "custom_model_data": 4990015 }, "model": "eugene/painting/sugar_sunset"}
+		{"predicate": { "custom_model_data": 4990015 }, "model": "eugene/painting/sugar_sunset"},
+		{"predicate": { "custom_model_data": 4990016 }, "model": "eugene/painting/dragon_in_the_sky"}
 	]
 }

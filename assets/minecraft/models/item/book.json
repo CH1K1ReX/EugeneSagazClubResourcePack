@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/book"
+  },
+  "overrides":
+  [
+    {"predicate":{"custom_model_data":4990001},"model":"eugene/red_book"},
+    {"predicate":{"custom_model_data":4990002},"model":"eugene/blue_book"},
+    {"predicate":{"custom_model_data":4990003},"model":"eugene/purple_book"},
+    {"predicate":{"custom_model_data":4990004},"model":"eugene/green_book"}
+  ]
+}
