@@ -9,6 +9,10 @@
 		{"predicate": { "custom_model_data":4990001}, "model": "eugene/small_eugene"},
 		{"predicate": { "custom_model_data":4990002}, "model": "eugene/small_duda"},
 		{"predicate": { "custom_model_data":4990003}, "model": "eugene/small_arkadii"},
-		{"predicate": { "custom_model_data":4990004}, "model": "eugene/small_hirohito"}
+		{"predicate": { "custom_model_data":4990004}, "model": "eugene/small_hirohito"},
+		{"predicate": { "custom_model_data":4990009}, "model": "eugene/turtle/turtle_leonardo"},
+		{"predicate": { "custom_model_data":4990010}, "model": "eugene/turtle/turtle_donatelo"},
+		{"predicate": { "custom_model_data":4990011}, "model": "eugene/turtle/turtle_mikey"},
+		{"predicate": { "custom_model_data":4990012}, "model": "eugene/turtle/turtle_raphael"}
 	]
 }
