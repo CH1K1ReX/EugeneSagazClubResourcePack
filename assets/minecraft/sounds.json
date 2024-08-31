@@ -113,5 +113,10 @@
     "sounds": [
       "custom/sounds/zelda"
     ]
+  },
+  "duda.music.psy":{
+    "sounds":[
+      "custom/duda_music/psy"
+    ]
   }
 }
