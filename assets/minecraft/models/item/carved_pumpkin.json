@@ -19,10 +19,11 @@
     {"predicate":{"custom_model_data":4990015},"model":"eugene/hats/shako"},
     {"predicate":{"custom_model_data":4990016},"model":"eugene/hats/top_hat"},
     {"predicate":{"custom_model_data":4990017},"model":"eugene/hats/ushanka"},    
-    {"predicate":{"custom_model_data":4990018},"model":"eugene/hats/glasses"},    
-    {"predicate":{"custom_model_data":4990119},"model":"eugene/hats/scarf_red"},   
-    {"predicate":{"custom_model_data":4990219},"model":"eugene/hats/scarf_blue"},    
-    {"predicate":{"custom_model_data":4990319},"model":"eugene/hats/scarf_orange"},    
-    {"predicate":{"custom_model_data":4990419},"model":"eugene/hats/scarf_green"}    
+    {"predicate":{"custom_model_data":4990018},"model":"eugene/hats/glasses_up"},    
+    {"predicate":{"custom_model_data":4990019},"model":"eugene/hats/glasses_down"},    
+    {"predicate":{"custom_model_data":4990020},"model":"eugene/hats/scarf_red"},   
+    {"predicate":{"custom_model_data":4990021},"model":"eugene/hats/scarf_blue"},    
+    {"predicate":{"custom_model_data":4990022},"model":"eugene/hats/scarf_orange"},    
+    {"predicate":{"custom_model_data":4990023},"model":"eugene/hats/scarf_green"}    
   ]
 }
