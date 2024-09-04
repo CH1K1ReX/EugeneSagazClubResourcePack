@@ -5,6 +5,8 @@
   },
   "overrides":
   [
-    {"predicate":{"custom_model_data":4990001},"model":"eugene/small_sword"}
+    {"predicate":{"custom_model_data":4990001},"model":"eugene/small_sword"},
+    {"predicate":{"custom_model_data":4990002},"model":"eugene/weapons/tentacle"},
+    {"predicate":{"custom_model_data":4990003},"model":"eugene/weapons/moder_sword"}
   ]
 }
